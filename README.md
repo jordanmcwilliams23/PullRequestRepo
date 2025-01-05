@@ -139,4 +139,4 @@ Hatt was here. Thanks for showing me how to use Git. Keep up the good work :]
 
 Nikita was here! *-) Thanks for your lessons Stephen!
 
-
+Jordan was here! I learned a ton about git from your course, awesome work!
